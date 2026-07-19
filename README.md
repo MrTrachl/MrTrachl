@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on building **future-level social investing / trading**
 🌱 I'm learning new technologies and sharpening my skills every day
-🚀 Learning the financial markets since 2020
 
 ### 🛠️ Languages & Tools
 
