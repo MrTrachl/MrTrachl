@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on building **future-level social investing / trading** <br>
-🌱 I'm learning new technologies and sharpening my skills every day
+🌱 I'm learning advanced code design concepts
 
 ### 🛠️ Languages & Tools
 
