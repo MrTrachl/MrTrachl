@@ -3,6 +3,7 @@
 🚩 I started my coding journey in Summer 2023  <br>
 🔭 I’m currently working on building **future-level social investing / trading** <br>
 🌱 I'm learning advanced code design concepts <br>
+🧑‍💻 Code mainly in VS Code and then use GIT to push to GitHub to show my work <br>
 🎯 On target to take and pass the OCP 21 exam by years end
 
 ### 🛠️ Languages & Tools
