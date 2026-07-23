@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🚩 I started my coding journey in Summer 2023 and first used a IDE by Dec 2024!
+🚩 I started my coding journey in Summer 2023 and first used a IDE by Dec 2024!  <br>
 🔭 I’m currently working on building **future-level social investing / trading** <br>
 🌱 I'm learning advanced code design concepts
 
