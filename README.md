@@ -30,7 +30,7 @@
 ### 🎓 Certifications
 
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1A351D308C574879892BB46409BFF069FD0342B58F0DA6344C8D0AED1FBB1047">
-  <img src="./assets/ocp-java21.png"
+  <img src="JSE21OCP.jpeg"
        alt="Oracle Certified Professional — Java SE 21 Developer"
        width="120">
 </a>
