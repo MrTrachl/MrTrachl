@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 🚀 I started my software engineering journey in 2023  <br>
-📈 I’m currently working on building **future-level social investing / trading**  <br>
-🌱 I'm learning advanced code design concepts  <br>
+📈 Always learning and excelling  <br>
+⚙️ Constantly evolving  <br>
 🧑‍💻 I code mainly in VS Code and use GitHub to show my work  <br>
 
 ### 🛠️ Languages & Tools
