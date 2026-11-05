@@ -4,7 +4,7 @@
 📈 Always learning and excelling  <br>
 ⚙️ Constantly evolving  <br>
 🧑‍💻 I code mainly in VS Code and use GitHub to show my work  <br>
-🎯 Taking SEC+ certification exam by year end
+🎯 Taking SEC+ certification exam by year end <br>
 
 ### 🛠️ Languages & Tools
 
