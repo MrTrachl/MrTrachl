@@ -5,7 +5,6 @@
 ⚙️ Constantly evolving  <br>
 🧑‍💻 I code mainly in VS Code and use GitHub to show my work  <br>
 🎯 Taking SEC+ certification exam by year end <br>
-🧗 Planning to enter College in 2027 to pursue a Bachelors in Computer Science
 
 ### 🛠️ Languages & Tools
 
